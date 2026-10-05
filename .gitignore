@@ -1,1 +1,6 @@
-.ipynb_checkpoints
+*.ipynb_checkpoints
+.venv/
+lab4/hotdog
+lab4/data
+lab4/toothbrushes.jpg
+lab4/hotdog.zip
